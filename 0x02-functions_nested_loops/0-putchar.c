@@ -1,15 +1,18 @@
 #include <stdio.h>
 #include "main.h"
 /* 
-*
-*returns 0: (success)
-*/
+ * putchar returns a haracer 
+ * returns 0: (success)
+ * the @char is the printed 
+ *
+ *
+ */
 int main(void)
 {
 
-char ch = 'G';
+    char ch = 'G';
 
-putchar ('\n', ch);
+       putchar(ch);
 
-return(0);
+        return(0);
 }
