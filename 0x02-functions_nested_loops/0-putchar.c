@@ -10,9 +10,9 @@
 int main(void)
 {
 
-    char ch = 'G';
+    
 
-       putchar(ch);
+       putchar('\n');
 
         return(0);
 }
