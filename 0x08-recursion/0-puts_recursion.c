@@ -1,4 +1,3 @@
-// Created by Zacharia  on 05/04/2023.
 #include "main.h"
 /**
  * the _puts_recursion prints a string which is

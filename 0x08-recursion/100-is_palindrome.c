@@ -51,4 +51,4 @@ int lower_palindrome(char *s, int length)
     }
     else
         return(0);
-} 
+}
