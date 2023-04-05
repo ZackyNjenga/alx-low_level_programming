@@ -3,10 +3,10 @@
 /**
  * main - check the code
  *
- * return: Always 0.
- **/
- int main(void)
+ * Return: Always 0.
+ */
+int main(void)
 {
-     _puts_recursion("puts with recursion");
-    return (0);
+  _puts_recursion("Betty Holberton");
+  return (0);
 }
