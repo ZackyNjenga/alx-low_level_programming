@@ -8,13 +8,13 @@
  */
 size_t print_listint(const listint_t *h)
 {
-	size_t nodes = 0;
+	unsigned int i = 0;
+        const listint_t  *new_node = h;
 
-	while (h)
-	{
-		printf("%d\n", h->n);
-		h = h->next;
-		nodes++;
-	}
-	return (nodes);
+        for (; new_node; mew_node = new_node -> next)
+        {
+                printf("%d\n", new_node -> n;
+                i++
+        }
+	return (i);
 }
